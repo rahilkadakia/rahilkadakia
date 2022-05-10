@@ -1,4 +1,5 @@
 # Welcome to my GitHub Profile!
+
 ## About Me
 - :open_book: Majoring in Computer Science from Dwarkadas J. Sanghvi College of Engineering.
 - :briefcase: Working as an ML Developer and Software Engineer at Collabera.
@@ -9,7 +10,7 @@
 ## Contact Me
 <a href="https://www.linkedin.com/in/rahilkadakia99/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="mailto:rahilkadakia99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  
+
 <!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
 ## Skills
@@ -37,9 +38,12 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ## My GitHub Stats
+![](https://komarev.com/ghpvc/?username=rahilkadakia&style=for-the-badge&color=000000)  
+
 ![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahilkadakia&show_icons=true&theme=dark)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahilkadakia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rahilkadakia/rahilkadakia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
