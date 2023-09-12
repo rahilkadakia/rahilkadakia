@@ -1,8 +1,8 @@
 # Welcome to my GitHub Profile!
 
 ## About Me
-- :open_book: Majoring in Computer Science from Dwarkadas J. Sanghvi College of Engineering.
-- :briefcase: Working as an ML Developer and Software Engineer at Collabera.
+- :open_book: Majoring in Computer Science from New York University.
+- :briefcase: Data Scientist / Software Developer
 - :zap: I love Math, Physics and Data Science.
 - :handshake: Open to contribute to Collaborative Projects.
 - :page_with_curl: Checkout my portfolio [here](https://rahilkadakia.github.io/).
